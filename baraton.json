@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arroz Oso 1kg",
+    "precio": 2.80,
+    "descripcion": "Arroz de grano largo, ideal para todo tipo de preparaciones",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyiuL6pWvKkOOT2_6AohvxcC25y87QY45gQ&s"
+  },
+  {
+    "id": 2,
+    "nombre": "Aceite Vegetal 1L",
+    "precio": 3.50,
+    "descripcion": "Aceite vegetal puro para freír y cocinar",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpOK3kfvnbtIqv4nUxJuX98ijgMD5VpAaYA&s"
+  },
+  {
+    "id": 3,
+    "nombre": "Leche Entera 1L",
+    "precio": 1.20,
+    "descripcion": "Leche fresca pasteurizada, fuente de calcio y vitaminas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CcUO4sk0piqAukOvUYPGyoEf6fLrc462Ag&s"
+  },
+  {
+    "id": 4,
+    "nombre": "Huevos Grade A (30 unidades)",
+    "precio": 4.50,
+    "descripcion": "Huevos frescos de gallina, tamaño grande",
+    "imagen": "https://static01.nyt.com/images/2024/05/29/dining/20EGGS1-esp/20EGGS1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+  },
+  {
+    "id": 5,
+    "nombre": "Supan",
+    "precio": 1.80,
+    "descripcion": "Pan blanco suave para sandwiches, paquete de 18 rebanadas",
+    "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/11/7861009944084-1-18.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Café Nescafe 500g",
+    "precio": 6.90,
+    "descripcion": "Café tostado medio para un sabor equilibrado",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLUQGUEEmlTXwrXSdCvmaznjNglNDWygQuQ&s"
+  },
+  {
+    "id": 7,
+    "nombre": "Azúcar Refinada 1kg",
+    "precio": 1.50,
+    "descripcion": "Azúcar blanca refinada para endulzar bebidas y postres",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5YAhA3Znni90IAMxHhR3M6e2jrAlqXtYZA&s"
+  },
+  {
+    "id": 8,
+    "nombre": "Atún en Lata 170g",
+    "precio": 2.30,
+    "descripcion": "Atún en agua, fuente de proteínas y omega-3",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSsOWWA3sEna-cF9FJqxlKuffZvlvORAucDw&s"
+  },
+  {
+    "id": 9,
+    "nombre": "Pasta Spaghetti 500g",
+    "precio": 1.75,
+    "descripcion": "Pasta italiana de sémola de trigo duro",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK47J2knxSTWNAYo-EHyshpSxWmWbPwEaCzg&s"
+  },
+  {
+    "id": 10,
+    "nombre": "Jabón Líquido 500ml",
+    "precio": 3.25,
+    "descripcion": "Jabón líquido para manos con aroma fresco",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBclTlR6gqfmH2w-KSiQwI-ZJlhIMrLX4HA&s"
+  },
+  {
+    "id": 11,
+    "nombre": "Papel Higiénico Familia(3 rollos)",
+    "precio": 2.10,
+    "descripcion": "Papel higiénico suave de 2 capas, paquete económico",
+    "imagen": "https://images.ctfassets.net/tcoigcjw85h2/1lNuYD0ypiGCsk65oNLLVG/8748c13d7ab80cd5ce0318e76dc6970b/ph-triple-plus-2-en-1-x3-interna.png"
+  }
+]

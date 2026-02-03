@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cebolla Paiteña lb",
+    "precio": 0.60,
+    "descripcion": "Cebolla paiteña fresca por libra",
+    "imagen": "https://via.placeholder.com/200x200/DDA0DD/000000?text=Cebolla"
+  },
+  {
+    "id": 2,
+    "nombre": "Coca-Cola 2L",
+    "precio": 1.75,
+    "descripcion": "Gaseosa Coca-Cola botella de 2 litros",
+    "imagen": "https://via.placeholder.com/200x200/DC143C/ffffff?text=Coca-Cola"
+  },
+  {
+    "id": 3,
+    "nombre": "Papa Chola lb",
+    "precio": 0.50,
+    "descripcion": "Papa chola fresca por libra",
+    "imagen": "https://via.placeholder.com/200x200/D2B48C/000000?text=Papa"
+  },
+  {
+    "id": 4,
+    "nombre": "Tomate Riñón lb",
+    "precio": 0.80,
+    "descripcion": "Tomate riñón fresco por libra",
+    "imagen": "https://via.placeholder.com/200x200/FF6347/000000?text=Tomate"
+  },
+  {
+    "id": 5,
+    "nombre": "Huevos x12",
+    "precio": 2.80,
+    "descripcion": "Docena de huevos frescos de granja",
+    "imagen": "https://via.placeholder.com/200x200/FFF8DC/000000?text=Huevos"
+  },
+  {
+    "id": 6,
+    "nombre": "Pan de Molde",
+    "precio": 1.60,
+    "descripcion": "Pan de molde blanco en rebanadas",
+    "imagen": "https://via.placeholder.com/200x200/FFE4B5/000000?text=Pan"
+  }
+]

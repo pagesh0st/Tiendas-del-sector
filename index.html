@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comercio Local - Sector Norte</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            color: #ecf0f1;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .intro {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 12px;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .intro h2 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+        }
+
+        .stores-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .store-card {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .store-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+
+        .store-image {
+            width: 100%;
+            height: 200px;
+            background-color: #ecf0f1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            color: #7f8c8d;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        .store-content {
+            padding: 1.5rem;
+        }
+
+        .store-content h3 {
+            color: #ffffff;
+            margin-bottom: 0.5rem;
+            font-size: 1.5rem;
+        }
+
+        .store-content p {
+            color: #7f8c8d;
+            margin-bottom: 1rem;
+        }
+
+        .store-button {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+
+        .store-button:hover {
+            background-color: #2980b9;
+        }
+
+        .map-section {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 12px;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .map-section h2 {
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+
+        .map-placeholder {
+            width: 100%;
+            height: 400px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #7f8c8d;
+            font-size: 1.2rem;
+        }
+
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .team-members {
+            margin-top: 1rem;
+        }
+
+        .team-members h3 {
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+
+        .team-members ul {
+            list-style: none;
+        }
+
+        .team-members li {
+            margin: 0.5rem 0;
+            font-size: 1.1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Comercio Local - Sector Norte</h1>
+        <p>Descubre las tiendas de tu barrio</p>
+    </header>
+
+    <div class="container">
+        <div class="intro">
+            <h2>Bienvenido a tu Directorio de Tiendas Locales</h2>
+            <p>Explora las diferentes tiendas del Sector Norte de nuestra ciudad. Aquí encontrarás todo lo que necesitas, desde productos de farmacia hasta alimentos frescos, papelería y más. Apoya el comercio local y descubre la comodidad de comprar cerca de casa.</p>
+        </div>
+
+        <div class="stores-grid">
+            <div class="store-card">
+                <div class="store-image">
+                    <img src="src/baraton.jpeg" alt="">
+                </div>
+                <div class="store-content">
+                    <h3>El Baratón</h3>
+                    <a href="baraton.html" class="store-button">Visitar Tienda</a>
+                </div>
+            </div>
+
+            <div class="store-card">
+                <div class="store-image">
+                    <img src="src/empanadas.jpeg" alt="">
+                </div>
+                <div class="store-content">
+                    <h3>Empanadas</h3>
+                    <a href="empanadas.html" class="store-button">Visitar Tienda</a>
+                </div>
+            </div>
+
+            <div class="store-card">
+                <div class="store-image">
+                    <img src="src/megatodo.jpeg" alt="">
+                </div>
+                <div class="store-content">
+                    <h3>Megatodo de remate</h3>
+                    <a href="megatodo.html" class="store-button">Visitar Tienda</a>
+                </div>
+            </div>
+
+            <div class="store-card">
+                <div class="store-image">
+                    <img src="src/pepito.jpeg" alt="">
+                </div>
+                <div class="store-content">
+                    <h3>Despensa Rincon de Pepito</h3>
+                    <a href="pepito.html" class="store-button">Visitar Tienda</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="map-section">
+            <h2>Ubicación de las Tiendas</h2>
+            <div class="map-placeholder">
+                <p>Aquí puedes insertar un mapa con la ubicación de cada tienda<br>(Google Maps, OpenStreetMap, etc.)</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Comercio Local - Sicio Vivienda. Proyecto de Grado 3ro 'C'.</p>
+        <div class="team-members">
+            <h3>Integrantes del Grupo</h3>
+            <ul>
+                <li>Ayleen Gabriela Arias Chiriguaya</li>
+                <li>Stefany Karla Carrera Ponce</li>
+                <li>Andrew Snayder Castillo Castillo</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

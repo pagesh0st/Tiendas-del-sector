@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carrito de Juguete",
+    "precio": 0.50,
+    "descripcion": "Carrito de plástico de colores variados",
+    "imagen": "https://via.placeholder.com/200x200/FF6347/ffffff?text=Carrito"
+  },
+  {
+    "id": 2,
+    "nombre": "Cadena Dorada",
+    "precio": 0.75,
+    "descripcion": "Cadena de fantasía color dorado con brillo",
+    "imagen": "https://via.placeholder.com/200x200/FFD700/000000?text=Cadena"
+  },
+  {
+    "id": 3,
+    "nombre": "Lamparita LED",
+    "precio": 1.00,
+    "descripcion": "Lamparita LED de bajo consumo, luz blanca",
+    "imagen": "https://via.placeholder.com/200x200/FFFFE0/000000?text=Lamparita"
+  },
+  {
+    "id": 4,
+    "nombre": "Peluche Pequeño",
+    "precio": 0.50,
+    "descripcion": "Peluche de animalito en colores surtidos",
+    "imagen": "https://via.placeholder.com/200x200/FFC0CB/000000?text=Peluche"
+  },
+  {
+    "id": 5,
+    "nombre": "Pulsera de Fantasía",
+    "precio": 0.50,
+    "descripcion": "Pulsera con cuentas de colores brillantes",
+    "imagen": "https://via.placeholder.com/200x200/9370DB/ffffff?text=Pulsera"
+  },
+  {
+    "id": 6,
+    "nombre": "Muñeca Pequeña",
+    "precio": 0.75,
+    "descripcion": "Muñequita de plástico con vestido colorido",
+    "imagen": "https://via.placeholder.com/200x200/FFB6C1/000000?text=Muneca"
+  }
+]
