@@ -4,41 +4,41 @@
     "nombre": "Carrito de Juguete",
     "precio": 0.50,
     "descripcion": "Carrito de plástico de colores variados",
-    "imagen": "https://via.placeholder.com/200x200/FF6347/ffffff?text=Carrito"
+    "imagen": "https://i0.wp.com/www.mijugueteria.com.ec/wp-content/uploads/2024/12/40559888-CARRO-1-64-DE-METAL-BARCELONA-S.C._3.png?fit=1000%2C1000&ssl=1"
   },
   {
     "id": 2,
     "nombre": "Cadena Dorada",
     "precio": 0.75,
     "descripcion": "Cadena de fantasía color dorado con brillo",
-    "imagen": "https://via.placeholder.com/200x200/FFD700/000000?text=Cadena"
+    "imagen": "https://metromayorista.com/8656-large_default/cadena-y-dije-fantasia.jpg"
   },
   {
     "id": 3,
     "nombre": "Lamparita LED",
     "precio": 1.00,
     "descripcion": "Lamparita LED de bajo consumo, luz blanca",
-    "imagen": "https://via.placeholder.com/200x200/FFFFE0/000000?text=Lamparita"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QGQp6OeHpctV-cMYZcy6btqVl2kRxmKA8g&s"
   },
   {
     "id": 4,
     "nombre": "Peluche Pequeño",
     "precio": 0.50,
     "descripcion": "Peluche de animalito en colores surtidos",
-    "imagen": "https://via.placeholder.com/200x200/FFC0CB/000000?text=Peluche"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDH6XClMHSlNOmqAw8Eemakqb2wLV2dSYeQ&s"
   },
   {
     "id": 5,
     "nombre": "Pulsera de Fantasía",
     "precio": 0.50,
     "descripcion": "Pulsera con cuentas de colores brillantes",
-    "imagen": "https://via.placeholder.com/200x200/9370DB/ffffff?text=Pulsera"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThL58Gui5j2i8QYmGqjnPhVKl1IVV5gTcogg&s"
   },
   {
     "id": 6,
     "nombre": "Muñeca Pequeña",
     "precio": 0.75,
     "descripcion": "Muñequita de plástico con vestido colorido",
-    "imagen": "https://via.placeholder.com/200x200/FFB6C1/000000?text=Muneca"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOcWdLs-fDRwNzgL7u8OhVveGJXpig_-nWQ&s"
   }
 ]

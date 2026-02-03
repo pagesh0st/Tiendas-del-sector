@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minimarket La Esquina - Tienda Online</title>
+    <title>Megatodo de remate - Tienda Online</title>
     <style>
         * {
             margin: 0;
@@ -20,6 +20,10 @@
 
         header {
             background-color: #c0392b;
+            background-image: url('ruta-de-tu-imagen.jpg'); /* Coloca aquí la URL de tu imagen */
+            background-size: cover;
+            background-position: center;
+            background-blend-mode: multiply;
             color: white;
             padding: 1.5rem 0;
         }
@@ -90,24 +94,24 @@
             height: 300px;
             background-color: #ecf0f1;
             border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #7f8c8d;
-            font-size: 1.2rem;
             margin-bottom: 1rem;
+            background-image: url('src/megatodo.jpeg');
+            background-size: cover;
+            background-position: center;
         }
 
         .store-map {
             width: 100%;
-            height: 250px;
-            background-color: #ecf0f1;
+            height: 400px;
             border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #7f8c8d;
-            font-size: 1.1rem;
+            overflow: hidden;
+            border: none;
+        }
+
+        .store-map iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
         }
 
         .products-grid {
@@ -291,7 +295,7 @@
     <header>
         <div class="header-content">
             <div class="store-info">
-                <h1>Minimarket La Esquina</h1>
+                <h1>Mega todo de remate</h1>
                 <p>Lo que necesitas, cerca de ti</p>
             </div>
             <a href="index.html" class="back-link">Volver al Inicio</a>
@@ -300,15 +304,17 @@
 
     <div class="container">
         <div class="store-header">
-            <div class="store-photo">
-                Espacio para foto del Minimarket La Esquina
-            </div>
+            <div class="store-photo"></div>
             <h2>Ubicación</h2>
             <div class="store-map">
-                Mapa de ubicación del minimarket
+                <iframe 
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d326.5208543077744!2d-79.96315259814622!3d-2.1346547892257526!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d72e1eab7e119%3A0x77b7406cba8922a9!2sServicio%20Tecnico%20Celular!5e1!3m2!1ses!2sus!4v1770126504724!5m2!1ses!2sus"
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
             </div>
         </div>
-
         <h2 style="margin-bottom: 1.5rem; color: #2c3e50;">Nuestros Productos</h2>
         <div class="products-grid" id="productsGrid"></div>
     </div>

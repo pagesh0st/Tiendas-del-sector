@@ -4,41 +4,41 @@
     "nombre": "Cebolla Paiteña lb",
     "precio": 0.60,
     "descripcion": "Cebolla paiteña fresca por libra",
-    "imagen": "https://via.placeholder.com/200x200/DDA0DD/000000?text=Cebolla"
+    "imagen": "https://frutyleg.com/wp-content/uploads/2021/06/CEBOLLA-PAITENA-1.jpg"
   },
   {
     "id": 2,
     "nombre": "Coca-Cola 2L",
     "precio": 1.75,
     "descripcion": "Gaseosa Coca-Cola botella de 2 litros",
-    "imagen": "https://via.placeholder.com/200x200/DC143C/ffffff?text=Coca-Cola"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedkmNhT4yHYDuVzAOOTN4JaHUZi63a6ON6Q&s"
   },
   {
     "id": 3,
     "nombre": "Papa Chola lb",
     "precio": 0.50,
     "descripcion": "Papa chola fresca por libra",
-    "imagen": "https://via.placeholder.com/200x200/D2B48C/000000?text=Papa"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAw41REkyA3Gy8R947Y0rMn8FTVSeYgcg6g&s"
   },
   {
     "id": 4,
     "nombre": "Tomate Riñón lb",
     "precio": 0.80,
     "descripcion": "Tomate riñón fresco por libra",
-    "imagen": "https://via.placeholder.com/200x200/FF6347/000000?text=Tomate"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS24LHIN2_qL0YHgf-dEl2nIKo8lyH_lfxrw&s"
   },
   {
     "id": 5,
     "nombre": "Huevos x12",
     "precio": 2.80,
     "descripcion": "Docena de huevos frescos de granja",
-    "imagen": "https://via.placeholder.com/200x200/FFF8DC/000000?text=Huevos"
+    "imagen": "https://static01.nyt.com/images/2024/05/29/dining/20EGGS1-esp/20EGGS1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
   },
   {
     "id": 6,
-    "nombre": "Pan de Molde",
+    "nombre": "Pan de Molde Supan",
     "precio": 1.60,
     "descripcion": "Pan de molde blanco en rebanadas",
-    "imagen": "https://via.placeholder.com/200x200/FFE4B5/000000?text=Pan"
+    "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/11/7861009944084-1-18.jpg"
   }
 ]
